@@ -16,6 +16,8 @@ Minimanın eski sürümlerinden birini kullanıyorsanız sonraki adıma geçmede
 wget -O minima_cleanup_v98.sh https://raw.githubusercontent.com/minima-global/Minima/master/scripts/minima_cleanup_v98.sh && chmod +x minima_cleanup_v98.sh && sudo ./minima_cleanup_v98.sh
 </code>
 
+
+
 Root dizininde bu kodu çalıştırın
 <code>
 wget -O minima_setup.sh https://raw.githubusercontent.com/minima-global/Minima/master/scripts/minima_setup.sh && chmod +x minima_setup.sh && sudo ./minima_setup.sh -r 9002 -p 9001
