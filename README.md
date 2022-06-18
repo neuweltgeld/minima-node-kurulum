@@ -17,7 +17,9 @@ wget -O minima_cleanup_v98.sh https://raw.githubusercontent.com/minima-global/Mi
 </code>
 
 
-
+<br>
+<br>
+<br>
 Root dizininde bu kodu çalıştırın
 <code>
 wget -O minima_setup.sh https://raw.githubusercontent.com/minima-global/Minima/master/scripts/minima_setup.sh && chmod +x minima_setup.sh && sudo ./minima_setup.sh -r 9002 -p 9001
